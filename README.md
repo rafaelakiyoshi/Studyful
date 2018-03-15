@@ -3,7 +3,7 @@
 </p>
 
 <p align="certer">
-  <img src="https://i.imgur.com/0IGHCPA.png">
+  <img width="460" height="300" src="https://i.imgur.com/0IGHCPA.png">
 </p>
 
 
