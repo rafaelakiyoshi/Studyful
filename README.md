@@ -1,7 +1,5 @@
-
-
 <p align="certer">
-  <h1>Welcome to the _StudyfuL_ wiki!</h1>
+  <h3>Welcome to the _StudyfuL_ wiki!</h3>
 </p>
 
 <p align="certer">
