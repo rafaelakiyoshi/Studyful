@@ -79,6 +79,7 @@ Style Guide | Rafael Akiyoshi | 30/05/2018
 
 
 ### Installation
+
 Task | Responsible | Deadline
 ------------- | ------------- | -------------
 Installation  | Both          | 09/06/2018
